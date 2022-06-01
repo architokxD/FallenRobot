@@ -4,7 +4,7 @@ import re
 from sys import argv
 from typing import Optional
 
-from ᕼᗩTᕼOᗪI ᗷOT 🇮🇳 import (
+from Fallen Robot import (
     ALLOW_EXCL,
     OWNER_USERNAME,
     CERT_PATH,
